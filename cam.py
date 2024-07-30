@@ -1,5 +1,3 @@
-# Thanks to Tim for the guide here!
-
 import cv2
 import time
 import datetime
